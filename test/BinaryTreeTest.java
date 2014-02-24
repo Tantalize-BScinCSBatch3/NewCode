@@ -24,6 +24,7 @@ public class BinaryTreeTest {
         Testtree.insert(80);
         Testtree.insert(85);
         Testtree.insert(1);
+        Testtree.insert(20);
        
 
        // Testtree.delete(60);
